@@ -38,7 +38,7 @@ class MainActivity : ComponentActivity() {
                             "Greek Mongrel",
                             "Germany",
                             "Most beautiful dog in the world",
-                            "Some random Text about Robbi"
+                            "Robbi loves to go for a walk or to be lying in the sun. He gives you the 'mediteranian' dog vibe. You think he might not like you? Have some treats ready at hand and he certainly will fall in love with you!"
                         )
                     )
                 }
